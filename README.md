@@ -1,4 +1,4 @@
-# iGeo-maven-lib
+# controlp5-maven-lib
 original author: [sojamo/controlp5](https://github.com/sojamo/controlp5)  
 
 ## Supported Versions:  
