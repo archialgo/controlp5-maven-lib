@@ -2,7 +2,8 @@
 original author: [sojamo/controlp5](https://github.com/sojamo/controlp5)  
 
 ## Supported Versions:  
-2.2.6
+- 2.2.5  
+- 2.2.6
 
 ## How to
 **Step 1.** Add the JitPack repository to your build file
