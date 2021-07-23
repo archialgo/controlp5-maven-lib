@@ -2,6 +2,7 @@
 original author: [sojamo/controlp5](https://github.com/sojamo/controlp5)  
 
 ## Supported Versions:  
+- 2.2.3
 - 2.2.5  
 - 2.2.6
 
