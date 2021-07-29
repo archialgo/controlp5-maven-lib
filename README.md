@@ -1,4 +1,5 @@
 # controlp5-maven-lib
+[![](https://jitpack.io/v/archialgo/controlp5-maven-lib.svg)](https://jitpack.io/#archialgo/controlp5-maven-lib)   
 original author: [sojamo/controlp5](https://github.com/sojamo/controlp5)  
 
 ## Supported Versions:  
